@@ -1,0 +1,18 @@
+{
+  "name": "ha-catalyst-test",
+  "version": "0.0.1",
+  "description": "Create a simple web app/server that puts out a web page displaying simple phrase.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ha-catalyst-test"
+  },
+  "author": "Timothy Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
